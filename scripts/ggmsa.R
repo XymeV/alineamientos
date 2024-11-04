@@ -1,3 +1,3 @@
 #script para ggmsa
 library(ggmsa)
-ggmsa("Insulinas.fasta")
+ggmsa("raw data/Insulinas.fasta")
